@@ -1,0 +1,566 @@
+[     0s] Build frontend of artifacts\buildprogram\buildprogram_buildprogram.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.22.0-preview.5/bee~/BuildProgramBuildProgramSources)
+[4/6  1s] Csc artifacts/buildprogram/buildprogram_buildprogram.exe (+2 others)
+[     0s] Destroying Roslyn Shared Compiler Server
+[     3s] Build frontend of artifacts\buildprogram\tundra_buildprogram.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.22.0-preview.5/bee~/BuildProgramBuildProgramSources)
+[ 2/13  0s] CSProject D:/Travail/Pro/UniFR/PSY/ProjetUnity/Tiny/2D-Entities-Starter-0.22.0-preview.8/Library/PackageCache/com.unity.dots.runtime@0.22.0-preview.5/bee~/BuildProgramBuildProgramSources/buildprogrambuildprogram.gen.csproj
+[11/13  1s] Csc artifacts/buildprogrambuildprogram.exe/Release/buildprogrambuildprogram.exe (+2 others)
+[       0s] Destroying Roslyn Shared Compiler Server
+[       2s] Executed build program. Created build graph with 1072 nodes.
+[     9s] Build frontend of artifacts\tundra_Web-asmJS_lab.dag ran (build file timestamp changed: ../PackageCache/com.unity.dots.runtime@0.22.0-preview.5/bee~/BuildProgramBuildProgramSources)
+[   0/1045  0s] WriteResponseFile artifacts/rsp/13918295068529995965.rsp
+[   1/1045  0s] WriteResponseFile artifacts/rsp/10368034638015673357.rsp
+[   2/1045  0s] WriteResponseFile artifacts/rsp/9417226736906905645.rsp
+[   3/1045  0s] WriteResponseFile artifacts/rsp/18119599200728975498.rsp
+[   9/1045  0s] CopyTool ../../Builds/Web-asmJS/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  12/1045  0s] CopyTool ../../Builds/Web-asmJS/Data/afe3ad3b02fbc44e9b2e20c1a4cdae5a
+[  13/1045  0s] CopyTool ../../Builds/Web-asmJS/Data/d85e7ab79f05238cee83df6ae4253e1e
+[  14/1045  0s] CopyTool ../../Builds/Web-asmJS/Data/530569866b4604ebe937c205781a596a
+[  16/1045  0s] CopyTool ../../Builds/Web-asmJS/Data/2cda990e2423bbf4892e6590ba056729
+[ 602/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_image2d_web/Web-asmJS/e5zv/dummy.o
+[ 603/1045  2s] C_WebGL_asmjs artifacts/lib_unity_lowlevel/Web-asmJS/e5zv/dummy.o
+[ 604/1045  2s] C_WebGL_asmjs artifacts/lib_unity_lowlevel/Web-asmJS/mfiy/guard.o
+[ 605/1045  2s] C_WebGL_asmjs artifacts/lib_unity_zerojobs/Web-asmJS/e5zv/dummy.o
+[ 606/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_codec/Web-asmJS/e5zv/dummy.o
+[ 607/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_core/Web-asmJS/e5zv/dummy.o
+[ 608/1045  2s] C_WebGL_asmjs artifacts/lib_unity_zerojobs/Web-asmJS/sydm/ZeroJobsNativeSupport.o
+[ 609/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_codec/Web-asmJS/0efu/LZ4Wrapper.o
+[ 610/1045  2s] C_WebGL_asmjs artifacts/lib_unity_lowlevel/Web-asmJS/mfiy/allocators.o
+In file included from D:/Travail/Pro/UniFR/PSY/ProjetUnity/Tiny/2D-Entities-Starter-0.22.0-preview.8/Library/PackageCache/com.unity.dots.runtime@0.22.0-preview.5/LowLevelSupport~/Unity.LowLevel/cpp~/allocators.cpp:1:
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+
+namespace Unity::LowLevel
+
+               ^~~~~~~~~~
+
+                { namespace LowLevel
+
+1 warning generated.
+[ 611/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_core/Web-asmJS/lcgb/Log.o
+[ 612/1045  3s] C_WebGL_asmjs artifacts/lib_unity_lowlevel/Web-asmJS/mfiy/BurstInit.o
+[ 613/1045  3s] C_WebGL_asmjs artifacts/lib_unity_zerojobs/Web-asmJS/sydm/BurstNativeSupport.o
+In file included from D:/Travail/Pro/UniFR/PSY/ProjetUnity/Tiny/2D-Entities-Starter-0.22.0-preview.8/Library/PackageCache/com.unity.dots.runtime@0.22.0-preview.5/LowLevelSupport~/Unity.ZeroJobs/cpp~/BurstNativeSupport.cpp:8:
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+
+namespace Unity::LowLevel
+
+               ^~~~~~~~~~
+
+                { namespace LowLevel
+
+1 warning generated.
+[ 614/1045  1s] C_WebGL_asmjs artifacts/lib_unity_tiny_io/Web-asmJS/e5zv/dummy.o
+[ 615/1045  1s] C_WebGL_asmjs artifacts/lib_unity_tiny_io/Web-asmJS/a3hg/AndroidLoader.o
+[ 616/1045  1s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/yw6r/image_gnf.o
+[ 617/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_io/Web-asmJS/m5vk/TinyIO.o
+In file included from D:/Travail/Pro/UniFR/PSY/ProjetUnity/Tiny/2D-Entities-Starter-0.22.0-preview.8/Library/PackageCache/com.unity.tiny@0.22.0-preview.7/Unity.Tiny.IO/cpp~/TinyIO.cpp:3:
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.LowLevel\cpp~\include\allocators.h:6:16: warning: nested namespace definition is a C++17 extension; define each namespace separately [-Wc++17-extensions]
+
+namespace Unity::LowLevel
+
+               ^~~~~~~~~~
+
+                { namespace LowLevel
+
+1 warning generated.
+[ 618/1045  2s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/codec.o
+[ 619/1045  3s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/astc_file.o
+[ 620/1045  2s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/endpoint_codec.o
+[ 621/1045  2s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/footprint.o
+[ 622/1045  3s] C_WebGL_asmjs artifacts/lib_unity_tiny_codec/Web-asmJS/7ge8/lz4.o
+[ 623/1045  3s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/yw6r/image.o
+[ 624/1045  2s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/logical_astc_block.o
+[ 625/1045  3s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/integer_sequence_codec.o
+[ 626/1045  1s] C_WebGL_asmjs artifacts/lib_unity_tiny_rendering_native/Web-asmJS/e5zv/dummy.o
+[ 627/1045  3s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/intermediate_astc_block.o
+[ 628/1045  4s] C_WebGL_asmjs artifacts/bx/Web-asmJS/77b1/amalgamated.o
+[ 629/1045  2s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/weight_infill.o
+[ 630/1045  2s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/physical_astc_block.o
+[ 631/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/jmop/Debugger.o
+[ 632/1045  4s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/partition.o
+[ 633/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/sp7d/il2cpp-codegen.o
+[ 634/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/jmop/Stopwatch.o
+[ 635/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/kkh8/GCHandle.o
+[ 636/1045  2s] C_WebGL_asmjs artifacts/lib_unity_tiny_rendering_native/Web-asmJS/8sb0/BufferedCallbacks.o
+[ 637/1045  3s] C_WebGL_asmjs artifacts/bimg/Web-asmJS/wwu2/quantization.o
+[ 638/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/5t12/Enum.o
+[ 639/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/5t12/GC.o
+[ 640/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/5t12/Type.o
+[ 641/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/5t12/Math.o
+[ 642/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/5t12/Console.o
+[ 643/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/ckog/il2cpp-benchmark-support.o
+[ 644/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/5t12/Environment.o
+[ 645/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/ckog/il2cpp-api.o
+[ 646/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/3oq1/Interlocked.o
+[ 647/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/ckog/il2cpp-virtual-remap.o
+[ 648/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/String.o
+[ 649/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/quxa/pch-cpp.o
+[ 650/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/Type.o
+[ 651/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/DebugMetadata.o
+[ 652/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/Exception.o
+[ 653/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/TypeUniverse.o
+[ 654/1045  5s] C_WebGL_asmjs artifacts/boehm-gc/Web-asmJS/3qko/gc.o
+[ 655/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/PlatformInvoke.o
+[ 656/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/Runtime.o
+[ 657/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/StackTrace.o
+[ 658/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/zq8x/Locale.o
+[ 659/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/zq8x/Initialize.o
+[ 660/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/2q4c/Reflection.o
+[ 661/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/zq8x/StackTrace.o
+[ 662/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/zq8x/TimeZoneInfo.o
+[ 663/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/COM.o
+[ 664/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Console.o
+[ 665/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/CpuInfo.o
+[ 666/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/ConditionVariable.o
+[ 667/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Cryptography.o
+[ 668/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Debug.o
+[ 669/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Allocator.o
+[ 670/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Directory.o
+[ 671/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Error.o
+[ 672/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Event.o
+[ 673/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/File.o
+[ 674/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Handle.o
+[ 675/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Locale.o
+[ 676/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/LibraryLoader.o
+[ 677/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Environment.o
+[ 678/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Memory.o
+[ 679/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/MemoryMappedFile.o
+[ 680/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Messages.o
+[ 681/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Mutex.o
+[ 682/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/NativeMethods.o
+[ 683/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Path.o
+[ 684/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Process.o
+[ 685/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/SystemCertificates.o
+[ 686/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Semaphore.o
+[ 687/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Socket.o
+[ 688/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/COMTests.o
+[ 689/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/ConditionVariableTests.o
+[ 690/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/ConsoleTests.o
+[ 691/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/CpuInfoTests.o
+[ 692/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/CryptographyTests.o
+[ 693/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/DebugTests.o
+[ 694/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/DirectoryTests.o
+[ 695/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/EnvironmentTests.o
+[ 696/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/EventTests.o
+[ 697/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/FileTests.o
+[ 698/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/ErrorTests.o
+[ 699/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/LibraryLoaderTests.o
+[ 700/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/LocaleTests.o
+[ 701/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/MemoryMappedFileTests.o
+[ 702/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/MainTestRunner.o
+[ 703/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/MemoryTests.o
+[ 704/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/MessagesTests.o
+[ 705/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/MutexTests.o
+[ 706/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/NativeMethodsTests.o
+[ 707/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/SemaphoreTests.o
+[ 708/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/PathTests.o
+[ 709/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/ProcessTests.o
+[ 710/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/SocketTests.o
+[ 711/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/ThreadLocalValueTests.o
+[ 712/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/TimeTests.o
+[ 713/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/ThreadTests.o
+[ 714/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Thread.o
+[ 715/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/usd2/TimeZoneInfoTests.o
+[ 716/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/Time.o
+[ 717/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/ThreadLocalValue.o
+[ 718/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/TimeZone.o
+[ 719/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/0mhp/TimeZoneInfo.o
+[ 720/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Error.o
+[ 721/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/8u4y/SocketBridge.o
+[ 722/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/CpuInfo.o
+[ 723/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/COM.o
+[ 724/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/CrashHelpers.o
+[ 725/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Event.o
+[ 726/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/CrashHelpers.o
+[ 727/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/ConditionVariable.o
+[ 728/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/Environment.o
+[ 729/1045 12s] C_WebGL_asmjs artifacts/bgfx/Web-asmJS/geoa/amalgamated.o
+[ 730/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/Initialize.o
+[ 731/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/MemoryMappedFile.o
+[ 732/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/Debug.o
+[ 733/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/MarshalStringAlloc.o
+[ 734/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/File.o
+[ 735/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/SocketBridge.o
+[ 736/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/Handle.o
+[ 737/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/SocketImpl.o
+[ 738/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/TimeZoneInfo.o
+[ 739/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/SystemCertificates.o
+[ 740/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/Process.o
+[ 741/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/Debug.o
+[ 742/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/Automation.o
+[ 743/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/File.o
+[ 744/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vt23/WindowsRuntime.o
+[ 745/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/Initialize.o
+[ 746/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/Lifecycle.o
+[ 747/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/Process.o
+[ 748/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/Environment.o
+[ 749/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/StackTrace.o
+[ 750/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/l4if/TimeZoneInfo.o
+[ 751/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/LibraryLoader.o
+[ 752/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/s9qf/Image.o
+[ 753/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/s9qf/Process.o
+[ 754/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/s9qf/SystemCertificates.o
+[ 755/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/ConditionVariableImpl.o
+[ 756/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/CpuInfo.o
+[ 757/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Console.o
+[ 758/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Messages.o
+[ 759/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/CrashHelpers.o
+[ 760/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Cryptography.o
+[ 761/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Directory.o
+[ 762/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Mutex.o
+[ 763/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Path.o
+[ 764/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Encoding.o
+[ 765/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/EventImpl.o
+[ 766/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/FileSystemWatcher.o
+[ 767/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Image.o
+[ 768/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/LastError.o
+[ 769/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Environment.o
+[ 770/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Locale.o
+[ 771/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Memory.o
+[ 772/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Error.o
+[ 773/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/MarshalAlloc.o
+[ 774/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/MemoryMappedFile.o
+[ 775/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/MutexImpl.o
+[ 776/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/NativeMethods.o
+[ 777/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Path.o
+[ 778/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/PosixHelpers.o
+[ 779/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/PosixWaitObject.o
+[ 780/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Process.o
+[ 781/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/SemaphoreImpl.o
+[ 782/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/StackTrace.o
+[ 783/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/SocketImpl.o
+[ 784/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/File.o
+In file included from D:/Travail/Pro/UniFR/PSY/ProjetUnity/Tiny/2D-Entities-Starter-0.22.0-preview.8/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp/libil2cpp/os/Posix/File.cpp:27:
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\Stevedore\emscripten\emscripten-nightly-1.38.28-2019_04_05_07_52\system\include\libc\sys\errno.h:1:2: warning: redirecting incorrect #include <sys/errno.h> to <errno.h> [-W#warnings]
+
+#warning redirecting incorrect #include <sys/errno.h> to <errno.h>
+
+ ^
+
+1 warning generated.
+[ 785/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/LibraryLoader.o
+[ 786/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/SystemCertificates.o
+[ 787/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/ThreadImpl.o
+[ 788/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/TimeZone.o
+[ 789/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/36wb/Time.o
+[ 790/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/ReaderWriterLock.o
+[ 791/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Socket.o
+[ 792/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/jz1h/ThreadImpl.o
+[ 793/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/ConditionVariableImpl.o
+[ 794/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/COM.o
+[ 795/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Console.o
+[ 796/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Semaphore.o
+[ 797/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/CpuInfo.o
+[ 798/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/Thread.o
+[ 799/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/vn11/StackTrace.o
+[ 800/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/CrashHelpers.o
+[ 801/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Cryptography.o
+[ 802/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Debug.o
+[ 803/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Directory.o
+[ 804/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/DllMain.o
+[ 805/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Encoding.o
+[ 806/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/EventImpl.o
+[ 807/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Environment.o
+[ 808/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/File.o
+[ 809/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/FileSystemWatcher.o
+[ 810/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Handle.o
+[ 811/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Image.o
+[ 812/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Initialize.o
+[ 813/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/LastError.o
+[ 814/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/LibraryLoader.o
+[ 815/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Locale.o
+[ 816/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/MarshalAlloc.o
+[ 817/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/MarshalStringAlloc.o
+[ 818/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Memory.o
+[ 819/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/MemoryMappedFile.o
+[ 820/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/NativeMethods.o
+[ 821/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/MutexImpl.o
+[ 822/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Path.o
+[ 823/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/SemaphoreImpl.o
+[ 824/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/SocketImpl.o
+[ 825/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/StackTrace.o
+[ 826/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/SynchronizationContext.o
+[ 827/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/SystemCertificates.o
+[ 828/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/ThreadImpl.o
+[ 829/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Time.o
+[ 830/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/Process.o
+[ 831/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/TimeZone.o
+[ 832/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/WindowsRuntime.o
+[ 833/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/v2jj/WindowsHelpers.o
+[ 834/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/u2rb/Win32ApiWindowsGamesEmulation.o
+[ 835/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/BrokeredFileSystem.o
+[ 836/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Cryptography.o
+[ 837/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Environment.o
+[ 838/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Initialize.o
+[ 839/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/File.o
+[ 840/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Process.o
+[ 841/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/MarshalAlloc.o
+[ 842/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Locale.o
+[ 843/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Win32ApiSharedEmulation.o
+[ 844/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/e3hf/Win32ApiWinRTEmulation.o
+[ 845/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/f981/NullGC.o
+[ 846/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/f981/WriteBarrier.o
+[ 847/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/f981/WriteBarrierValidation.o
+[ 848/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Assert.o
+[ 849/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/f981/BoehmGC.o
+[ 850/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/AtomicQueue.o
+[ 851/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Il2CppHStringReference.o
+[ 852/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Logging.o
+[ 853/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/f981/GarbageCollector.o
+[ 854/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/MarshalingUtils.o
+[ 855/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/f981/GCHandle.o
+[ 856/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Memory.o
+[ 857/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/DirectoryUtils.o
+[ 858/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/MemoryMappedFile.o
+[ 859/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Exception.o
+[ 860/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Environment.o
+[ 861/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/MemoryPool.o
+[ 862/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/mono-structs.o
+[ 863/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/q6uc/NativeDelegateMethodCache.o
+[ 864/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/q6uc/BlobReader.o
+[ 865/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/q6uc/Debugger.o
+[ 866/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Output.o
+[ 867/1045  0s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/q6uc/VmStringUtils.o
+[ 868/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/PathUtils.o
+[ 869/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/RegisterRuntimeInitializeAndCleanup.o
+[ 870/1045  0s] C_WebGL_asmjs artifacts/lib_unity_tiny_web/Web-asmJS/e5zv/dummy.o
+[ 872/1045  1s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/Runtime.o
+[ 874/1045  0s] C_WebGL_asmjs artifacts/lib_unity_tiny_web/Web-asmJS/bjq1/HTMLWrapper.o
+[ 875/1045  1s] C_WebGL_asmjs artifacts/lib_unity_tiny_input_web/Web-asmJS/e5zv/dummy.o
+[ 879/1045  1s] C_WebGL_asmjs artifacts/lib_unity_tiny_web/Web-asmJS/bjq1/SendMessageCallbackHandler.o
+[ 880/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/m6ht/StringUtils.o
+[ 881/1045  0s] C_WebGL_asmjs artifacts/lib_unity_platforms_runloop/Web-asmJS/e5zv/dummy.o
+[ 882/1045  0s] C_WebGL_asmjs artifacts/lib_unity_tiny_audio_web/Web-asmJS/e5zv/dummy.o
+[ 885/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.ZeroJobs.dll
+[ 886/1045  0s] C_WebGL_asmjs artifacts/lib_unity_platforms_runloop/Web-asmJS/8rm4/HTMLWrapper.o
+[ 887/1045  2s] C_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/q6uc/NativeSymbol.o
+[ 888/1045  0s] Lib_WebGL_asmjs artifacts/boehm-gc/Web-asmJS/boehm-gc.bc
+[ 889/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/1g7o/xxhash.o
+[ 890/1045  1s] Csc artifacts/Unity.Burst.dll/HostDotNet/Unity.Burst.dll (+2 others)
+[ 891/1045  1s] Csc artifacts/UnsafeUtilityPatcher/UnsafeUtilityPatcher.exe (+2 others)
+[ 892/1045  1s] Csc artifacts/Unity.Entities.StaticTypeRegistry.dll/HostDotNet/Unity.Entities.StaticTypeRegistry.dll (+2 others)
+[ 893/1045  2s] Csc artifacts/Unity.LowLevel.dll/Web-asmJS/Unity.LowLevel.dll (+2 others)
+[ 894/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.StaticTypeRegistry.dll
+[ 895/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Burst.dll
+[ 896/1045  0s] Csc artifacts/Unity.ZeroJobs.dll/Web-asmJS/Unity.ZeroJobs.dll (+2 others)
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.dots.runtime@0.22.0-preview.5\LowLevelSupport~\Unity.ZeroJobs\RTAtomicSafetyHandle.cs(711,15): warning CS0169: Le champ 'JobReflectionData.jobName' n'est jamais utilis�
+[ 897/1045  0s] Csc artifacts/Unity.Tiny.Main.dll/Web-asmJS/Unity.Tiny.Main.dll (+2 others)
+[ 898/1045  0s] Csc artifacts/Unity.Burst.dll/Web-asmJS/Unity.Burst.dll (+2 others)
+[ 899/1045  0s] Csc artifacts/Unity.Platforms.RunLoop.dll/Web-asmJS/Unity.Platforms.RunLoop.dll (+2 others)
+[ 900/1045  0s] Csc artifacts/Unity.Entities.StaticTypeRegistry.dll/Web-asmJS/Unity.Entities.StaticTypeRegistry.dll (+2 others)
+[ 901/1045  1s] Patch artifacts/UnsafeUtility/UnsafeUtility.dll (+pdb)
+[UnsafeUtilityPatcher] Patching assembly : artifacts/UnsafeUtilityUnpatched/UnsafeUtility.dll to : artifacts/UnsafeUtility/UnsafeUtility.dll
+[ 902/1045  0s] Csc artifacts/Unity.Platforms.Common.dll/Web-asmJS/Unity.Platforms.Common.dll (+2 others)
+[ 903/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/UnsafeUtility.dll
+[ 904/1045  3s] Lib_WebGL_asmjs artifacts/lib_unity_lowlevel/Web-asmJS/lib_unity_lowlevel.bc
+[ 905/1045  4s] Csc artifacts/Unity.Mathematics.dll/HostDotNet/Unity.Mathematics.dll (+2 others)
+[ 906/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Mathematics.dll
+[ 907/1045  4s] Lib_WebGL_asmjs artifacts/libil2cpptiny/Web-asmJS/libil2cpptiny.bc
+[ 908/1045  2s] Lib_WebGL_asmjs artifacts/lib_unity_zerojobs/Web-asmJS/lib_unity_zerojobs.bc
+[ 909/1045  0s] Csc artifacts/Unity.Collections.dll/HostDotNet/Unity.Collections.dll (+2 others)
+[ 910/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Collections.dll
+[ 911/1045  0s] Csc artifacts/Unity.Jobs.dll/HostDotNet/Unity.Jobs.dll (+2 others)
+[ 912/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Jobs.dll
+[ 913/1045  0s] Csc artifacts/Unity.Mathematics.Extensions.dll/HostDotNet/Unity.Mathematics.Extensions.dll (+2 others)
+[ 914/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Mathematics.Extensions.dll
+[ 915/1045  4s] Csc artifacts/Unity.Mathematics.dll/Web-asmJS/Unity.Mathematics.dll (+2 others)
+[ 916/1045  1s] Csc artifacts/Unity.Collections.dll/Web-asmJS/Unity.Collections.dll (+2 others)
+[ 917/1045  0s] Csc artifacts/Unity.Jobs.dll/Web-asmJS/Unity.Jobs.dll (+2 others)
+[ 918/1045  0s] Csc artifacts/Unity.Tiny.Codec.dll/Web-asmJS/Unity.Tiny.Codec.dll (+2 others)
+[ 919/1045  0s] Csc artifacts/Unity.Mathematics.Extensions.dll/Web-asmJS/Unity.Mathematics.Extensions.dll (+2 others)
+[ 920/1045  2s] Lib_WebGL_asmjs artifacts/lib_unity_platforms_runloop/Web-asmJS/lib_unity_platforms_runloop.bc
+[ 921/1045  2s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_core/Web-asmJS/lib_unity_tiny_core.bc
+[ 922/1045  2s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_codec/Web-asmJS/lib_unity_tiny_codec.bc
+[ 923/1045  0s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_image2d_web/Web-asmJS/lib_unity_tiny_image2d_web.bc
+[ 924/1045  2s] Csc artifacts/Unity.Entities.dll/HostDotNet/Unity.Entities.dll (+2 others)
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\ApiCompatibilityLevelTest.cs(2,10): warning CS1030: #warning�: 'Project is expected to have API Compatibility Level set to .NET Standard 2.0'
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\FastEquality.cs(189,27): warning CS0169: Le champ 'FastEquality.PointerSize.pter' n'est jamais utilis�
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\TypeManager.cs(491,27): warning CS0169: Le champ 'TypeManager.ObjectOffsetType.v0' n'est jamais utilis�
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\TypeManager.cs(492,27): warning CS0169: Le champ 'TypeManager.ObjectOffsetType.v1' n'est jamais utilis�
+[ 925/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.dll
+[ 926/1045  0s] Csc artifacts/Unity.Entities.CodeGen.dll/HostDotNet/Unity.Entities.CodeGen.dll (+2 others)
+[ 927/1045  0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.CodeGen.dll
+[ 928/1045  0s] Csc artifacts/ILPostProcessorRunner.exe/HostDotNet/ILPostProcessorRunner.exe (+2 others)
+[ 929/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/mscorlib.dll
+[ 930/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/UnsafeUtility.dll (+pdb)
+[ 931/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.ZeroJobs.dll (+pdb)
+[ 932/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.LowLevel.dll (+pdb)
+[ 933/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Platforms.RunLoop.dll (+pdb)
+[ 934/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Main.dll (+pdb)
+[ 935/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/netstandard.dll
+[ 936/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Platforms.Common.dll (+pdb)
+[ 937/1045  2s] Csc artifacts/Unity.Entities.dll/Web-asmJS/Unity.Entities.dll (+2 others)
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\ApiCompatibilityLevelTest.cs(2,10): warning CS1030: #warning�: 'Project is expected to have API Compatibility Level set to .NET Standard 2.0'
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\FastEquality.cs(189,27): warning CS0169: Le champ 'FastEquality.PointerSize.pter' n'est jamais utilis�
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\TypeManager.cs(492,27): warning CS0169: Le champ 'TypeManager.ObjectOffsetType.v1' n'est jamais utilis�
+
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.entities@0.5.1-preview.11\Unity.Entities\Types\TypeManager.cs(491,27): warning CS0169: Le champ 'TypeManager.ObjectOffsetType.v0' n'est jamais utilis�
+[ 938/1045  2s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_web/Web-asmJS/lib_unity_tiny_web.bc
+[ 939/1045  2s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_io/Web-asmJS/lib_unity_tiny_io.bc
+[ 940/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Entities.StaticTypeRegistry.dll (+pdb)
+[ 941/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Burst.dll (+pdb)
+[ 942/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Jobs.dll (+pdb)
+[ 943/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Codec.dll (+pdb)
+[ 944/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Mathematics.dll (+pdb)
+[ 945/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Mathematics.Extensions.dll (+pdb)
+[ 946/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Collections.dll (+pdb)
+[ 947/1045  0s] Csc artifacts/Unity.Tiny.Core.dll/Web-asmJS/Unity.Tiny.Core.dll (+2 others)
+[ 948/1045  0s] Csc artifacts/Unity.Entities.Runtime.dll/Web-asmJS/Unity.Entities.Runtime.dll (+2 others)
+[ 949/1045  0s] Csc artifacts/Unity.Transforms.dll/Web-asmJS/Unity.Transforms.dll (+2 others)
+[ 950/1045  0s] Csc artifacts/Unity.Tiny.Web.dll/Web-asmJS/Unity.Tiny.Web.dll (+2 others)
+D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\PackageCache\com.unity.tiny.web@0.22.0-preview.7\Runtime\Unity.Tiny.Web\SendMessageHandler.cs(72,46): warning CS0618: 'World.Active' est obsol�te�: 'World.Active has been deprecated. The most common & incorrect usage has been to use World.Active from a ComponentSystem. From a ComponentSystem you should use the ComponentSystem's World property directly. It returns the world that this system belongs to. There are some rare cases where a MonoBehaviour needs to inject data into the active world, in this case use World.DefaultGameObjectInjectionWorld. (RemovedAfter 2020-01-22)'
+[ 951/1045  0s] Csc artifacts/Unity.Tiny.IO.dll/Web-asmJS/Unity.Tiny.IO.dll (+2 others)
+[ 952/1045  0s] Csc artifacts/Unity.Tiny.Audio.dll/Web-asmJS/Unity.Tiny.Audio.dll (+2 others)
+[ 953/1045  0s] Csc artifacts/Unity.Tiny.Image2D.dll/Web-asmJS/Unity.Tiny.Image2D.dll (+2 others)
+[ 954/1045  0s] Csc artifacts/Unity.2D.Entities.dll/Web-asmJS/Unity.2D.Entities.dll (+2 others)
+[ 955/1045  0s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_input_web/Web-asmJS/lib_unity_tiny_input_web.bc
+[ 956/1045  0s] Csc artifacts/Unity.Tiny.Rendering.dll/Web-asmJS/Unity.Tiny.Rendering.dll (+2 others)
+[ 957/1045  0s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_audio_web/Web-asmJS/lib_unity_tiny_audio_web.bc
+[ 958/1045  0s] Csc artifacts/Unity.Tiny.Input.dll/Web-asmJS/Unity.Tiny.Input.dll (+2 others)
+[ 959/1045  0s] Csc artifacts/Unity.Tiny.Scenes.dll/Web-asmJS/Unity.Tiny.Scenes.dll (+2 others)
+[ 960/1045  0s] Csc artifacts/Unity.2D.Entities.Physics.dll/Web-asmJS/Unity.2D.Entities.Physics.dll (+2 others)
+[ 961/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Entities.Runtime.dll (+pdb)
+[ 962/1045  0s] Csc artifacts/Unity.Tiny.Audio.Web.dll/Web-asmJS/Unity.Tiny.Audio.Web.dll (+2 others)
+[ 963/1045  0s] Csc artifacts/Unity.Tiny.Image2D.Web.dll/Web-asmJS/Unity.Tiny.Image2D.Web.dll (+2 others)
+[ 964/1045  3s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_rendering_native/Web-asmJS/lib_unity_tiny_rendering_native.bc
+[ 965/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Core.dll (+pdb)
+[ 966/1045  0s] Csc artifacts/Unity.Tiny.Input.Web.dll/Web-asmJS/Unity.Tiny.Input.Web.dll (+2 others)
+[ 967/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.IO.dll (+pdb)
+[ 968/1045  0s] Csc artifacts/Unity.Tiny.UnityInstance.dll/Web-asmJS/Unity.Tiny.UnityInstance.dll (+2 others)
+[ 969/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Web.dll (+pdb)
+[ 970/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Transforms.dll (+pdb)
+[ 971/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Image2D.dll (+pdb)
+[ 972/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Audio.dll (+pdb)
+[ 973/1045  0s] Csc artifacts/Unity.Tiny.EntryPoint.exe/Web-asmJS/Unity.Tiny.EntryPoint.exe (+2 others)
+[ 974/1045  2s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Entities.dll (+pdb)
+[ 975/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Rendering.dll (+pdb)
+[ 976/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Input.dll (+pdb)
+[ 977/1045  0s] Csc artifacts/Unity.Tiny.Rendering.Native.dll/Web-asmJS/Unity.Tiny.Rendering.Native.dll (+2 others)
+[ 978/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Scenes.dll (+pdb)
+[ 979/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.EntryPoint.exe (+pdb)
+[ 980/1045  0s] Csc artifacts/Unity.2D.Entities.Runtime.dll/Web-asmJS/Unity.2D.Entities.Runtime.dll (+2 others)
+[ 981/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.2D.Entities.dll (+pdb)
+[ 982/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.2D.Entities.Physics.dll (+pdb)
+[ 983/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Audio.Web.dll (+pdb)
+[ 984/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Input.Web.dll (+pdb)
+[ 985/1045  1s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Image2D.Web.dll (+pdb)
+[ 986/1045  0s] Csc artifacts/Runtime.dll/Web-asmJS/Runtime.dll (+2 others)
+[ 987/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.UnityInstance.dll (+pdb)
+[ 988/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.Tiny.Rendering.Native.dll (+pdb)
+[ 989/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Runtime.dll (+pdb)
+[ 990/1045  0s] ILPostProcessorRunner artifacts/Runtime/Web-asmJS/post_ilprocessing/Unity.2D.Entities.Runtime.dll (+pdb)
+[ 991/1045  4s] TypeRegGen artifacts/Runtime/Web-asmJS/post_typereg/Runtime.dll (+68 others)
+[ 992/1045  3s] UnityLinker artifacts/Runtime/Web-asmJS_stripped/Runtime.dll (+68 others)
+[BUSY       6s] Il2Cpp artifacts/Runtime/Web-asmJS_stripped/Runtime.dll-il2cpp-sources/driver.cpp (+44 others)
+[ 993/1045  8s] Il2Cpp artifacts/Runtime/Web-asmJS_stripped/Runtime.dll-il2cpp-sources/driver.cpp (+44 others)
+Running il2cpp.exe in server GC mode.
+[ 994/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/driver.o
+[ 995/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/StaticConstructors.o
+[ 996/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/ReversePInvokeWrappers.o
+[ 997/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/StaticInitialization.o
+[ 998/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/StringLiterals.o
+[ 999/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.EntryPoint.o
+[1000/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Runtime.o
+[1001/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/TinyTypes.o
+[1002/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.LowLevel.o
+[1003/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Input.Web.o
+[1004/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Audio.Web.o
+[1005/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Web.o
+[1006/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.ZeroJobs.o
+[1007/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Jobs.o
+[1008/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Core.o
+[1009/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Audio.o
+[1010/1045  5s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Rendering.Native.o
+[1011/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Input.o
+[1012/1045  3s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Rendering.o
+[1013/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Main.o
+[1014/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Burst.o
+[1015/1045  5s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Transforms.o
+[1016/1045  4s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Collections.o
+[1017/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.2D.Entities.o
+[1018/1045  5s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Mathematics.o
+[1019/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/netstandard.o
+[1020/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Image2D.o
+[1021/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Image2D.Web.o
+[1022/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Mathematics.Extensions.o
+[1023/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Platforms.Common.o
+[1024/1045  3s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.2D.Entities.Runtime.o
+[1025/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Scenes.o
+[1026/1045  5s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/mscorlib.o
+[1027/1045  3s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/UnsafeUtility.o
+[1028/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.UnityInstance.o
+[1029/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Platforms.RunLoop.o
+[1030/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Entities.Runtime.o
+[1031/1045  6s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.2D.Entities.Physics.o
+[1032/1045  2s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.Codec.o
+[1033/1045  1s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Tiny.IO.o
+[1034/1045 14s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Il2CppGenericComDefinitions.o
+[1035/1045 13s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Entities.o
+[1036/1045  6s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Unity.Entities.StaticTypeRegistry.o
+[BUSY      21s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/GenericMethods.o
+[1037/1045 22s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/GenericMethods.o
+[BUSY      28s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Generics.o
+[1038/1045 28s] C_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/f0ms/Generics.o
+[BUSY       6s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      16s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      26s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      36s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      46s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      56s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      66s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      76s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      86s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY      96s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY     106s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY     116s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[BUSY     126s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+[1039/1045 131s] Link_WebGL_asmjs artifacts/Runtime.il2cpp/Web-asmJS/Runtime.html (+3 others)
+cache:INFO: generating system library: libc++_noexcept.a... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libc++_noexcept.a" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libc++abi.bc... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libc++abi.bc" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libc.bc... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libc.bc" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libcompiler_rt.a... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libcompiler_rt.a" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libc-sockets.bc... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libc-sockets.bc" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libdlmalloc_noerrno.bc... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libdlmalloc_noerrno.bc" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libgl-webgl2.bc... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libgl-webgl2.bc" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system library: libpthreads_stub.bc... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\libpthreads_stub.bc" for subsequent builds)
+
+cache:INFO:  - ok
+
+cache:INFO: generating system asset: generated_struct_info.json... (this will be cached in "D:\Travail\Pro\UniFR\PSY\ProjetUnity\Tiny\2D-Entities-Starter-0.22.0-preview.8\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.38.28\asmjs\generated_struct_info.json" for subsequent builds)
+
+cache:INFO:  - ok
+[1040/1045  0s] CopyTool ../../Builds/Web-asmJS/Runtime.js
+[1041/1045  0s] CopyTool ../../Builds/Web-asmJS/Runtime.mem
+[1042/1045  0s] CopyTool ../../Builds/Web-asmJS/Runtime.asm.js
+[1043/1045  0s] CopyTool ../../Builds/Web-asmJS/Runtime.html
+[           0s] Destroying Roslyn Shared Compiler Server
+*** Bee build success (243.10 seconds - 0:04:03), 444 items updated
